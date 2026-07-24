@@ -1,0 +1,6 @@
+{
+  "name": "MalaGasy Spoken English",
+  "description": "Flashcards et pratique orale Malagasy 🇲🇬 vers Anglais Américain 🇺🇸 pour niveaux A2 à B2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
